@@ -1,0 +1,1 @@
+As a hotel resident.I want the interface to be easy to understand and use so that I don't have to spend too much time figuring out what the system is use for and what the next step is.
